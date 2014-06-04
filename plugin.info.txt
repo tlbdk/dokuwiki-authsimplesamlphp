@@ -1,0 +1,7 @@
+base   authsimplesamlphp
+author Troels Liebe Bentsen
+email  tlb@rapanden.dk
+date   2014-06-04
+name   SimpleSAMLPHP integration plugin
+desc   Provides user authentication against SimpleSAMLPHP Auth sources
+url    https://github.com/tlbdk/dokuwiki-authsimplesamlphp
